@@ -6,7 +6,6 @@ This project is a **Movie Recommender Web App** built with **Streamlit** that re
 
 ## 🚀 Demo
 
-![demo](https://via.placeholder.com/800x400?text=Movie+Recommender+Demo)
 
 ---
 
